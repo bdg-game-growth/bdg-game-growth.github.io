@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Allow all important assets
+Allow: /*.html$
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.webp$
+
+# Sitemap location
+Sitemap: https://bdg-game-growth.github.io/sitemap.xml
